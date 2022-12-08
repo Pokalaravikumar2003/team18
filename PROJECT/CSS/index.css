@@ -1,0 +1,405 @@
+.r11{
+ background-color: white;
+ padding: 10px 5px 10px 80px;
+}
+.r11 p{
+	font-family: sans-serif;
+	color: #EFEFEF;font-size: 20px;
+}
+.r11 i{
+ padding: 10px 5px 10px 370px;
+}
+.s1{
+	 background-image: url("../image/1.jpg");
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 height: 600px;
+	 }
+.s2{
+
+	height: 300px;
+	width: 300px;
+	background-color: whitesmoke;
+	margin-left: 700px;
+	margin-top: 130px;
+
+}
+.s3{
+	font-size: 35px;
+	color: blue;
+	margin: 20px 20px;
+	color: #205375;
+}
+.s4{
+	font-size: 35px;
+	color: blue;
+	margin: 20px 20px;
+	color: #205375;
+}
+.s5{
+     margin-left: 20px;
+}
+.s6{
+     margin-left: 20px;
+     font-family: cursive;
+}
+.s7{
+     margin-left: 20px;
+     background-color: #f15e0e;
+     height: 40px;
+     width: 150px;
+     border-radius:10px;
+     border: 1px solid white;
+     color: white;
+    
+}
+.s8{
+	background-color: #205375;
+	height: 300px;
+}
+.s9{
+	margin-top: 100px;
+	color: white;
+	text-align: center;
+}
+.s10{
+	color: whitesmoke;
+	margin-left: 10px;
+}
+.Q1
+{
+	height: 500px;
+	background-color: white;
+}
+.Q2
+{
+	height: 500px;
+	background-color: white;
+	background-image: url("../image/2.jpg");
+	background-size: cover;
+}
+.W1
+{
+	margin-left: 270px;
+	margin-top: 120px;
+    color: #205375;
+}
+.p1
+{
+	margin-left: 270px;
+	margin-top: 10px;
+}
+.p2
+{
+	margin-left: 270px;
+}
+.b1
+{
+	margin-left: 270px ;
+	padding: 10px 30px 10px 30px;
+	background-color: #f15e0e;
+	color: white;
+	border-radius: 10px;
+	border: 1px solid white;
+}
+.Q3
+{
+	height: 100px;
+	background-color:#f15e0e;
+}
+.W2
+{
+	margin-left: 370px;
+	margin-top: 30px;
+	color: white;
+}
+.Q4
+{
+	height: 270px;
+	background-color:#f15e0e;
+}
+.Q5
+{
+	height: 40px;
+	width: 40px;
+	background-color: white;
+	margin-left: 270px;
+	position: absolute;
+}
+.p3
+{
+	margin-left: 330px;
+	color: white;
+	margin-bottom: 20px;
+	position: relative;
+}
+.Q6
+{
+	height: 40px;
+	width: 40px;
+	background-color: white;
+	margin-left: 270px;
+	margin-top: 80px;
+	position: absolute;
+}
+.p4
+{
+	margin-left: 330px;
+	color: white;
+	margin-bottom: 20px;
+	position: relative;
+	margin-top: 100px;
+}
+.Q7
+{
+	height: 270px;
+	background-color:#f15e0e;
+}
+.Q8
+{
+    height: 40px;
+	width: 40px;
+	background-color: white;
+	position: absolute;
+}
+.p5
+{
+	color: white;
+	margin-left: 60px;
+	position: relative;
+}
+.Q9
+{
+    height: 40px;
+	width: 40px;
+	background-color: white;
+	margin-top: 95px;
+	position: absolute;
+}
+.p6
+{
+
+	color: white;
+	margin-left: 60px;
+	position: relative;
+	margin-top: 100px;
+}
+.con3{
+	background-color: #205375;
+	padding-top: 30px;
+	padding-bottom: 200px;
+	z-index: 1;
+	position: relative;
+    
+}
+.c31{
+	background-color: white;
+	margin: 30px;
+	padding: 30px 25px 30px 25px;
+	border-radius: 10px;
+}
+.c31 i{
+	font-size: 40px ;
+}
+.c32{
+	background-color: #f15e0e ;
+}
+.c31a img{
+   border-radius:100px ;
+}
+.c31b{
+   padding-top: 20px;
+}
+.c32{
+	background-color: #f15e0e;
+	padding: 50px 15px 50px 15px;
+	color: white;border-radius: 10px;
+}
+.c32 .i1{
+	font-size: 20px;
+    margin: 15px 15px 15px 0px;
+}
+.c32 i{
+	font-size: 20px;
+    margin: 15px;
+}
+.row1{
+	margin-top: 100px;
+}
+.c33{
+	background-color: #f15e0e;
+	border-radius: 10px;margin: 15px;
+	color: white;
+}
+.r1 img{
+    border-radius: 10px;
+
+}
+.r2{
+	padding: 15px;
+	text-align: center;
+}
+.c34{
+	background-color: white;
+	border-radius: 10px;margin: 15px;
+	color: white;
+}
+.c34 h3{
+	color:#205375;
+}
+.c34 p{
+	color: black;
+}
+.c34 u{
+	color: #FF4301;
+}
+.c35{
+	background-color: #f15e0e;
+	border-radius: 10px;margin: 15px;
+	color: white;
+}
+.con4{
+/*	background-color: #EFEFEF;*/
+	z-index: 2;
+	position: relative;
+	bottom: 100px;
+	right: 10px;
+}
+.c41{
+	background-color: white;
+	padding-bottom: 20px;
+}
+.c41 h2{
+	color: #f15e0e;
+}
+.c41 button{
+	background-color: #f15e0e; 
+	padding: 5px;color: white;
+	border: 2px solid #f15e0e;
+	border-radius: 5px;
+}
+.c42{
+	background: url(../image/img0000.jpg);
+	background-size: cover;
+	height: 267px;
+}
+.con5{
+	background-color:#EFEFEF;
+	z-index: 1;
+	position: relaive;
+	padding-bottom: 50px;
+	margin-top: -500px;
+
+}
+.con5 h1{
+	color: #205375;
+	margin-top: 250px;
+	margin-bottom: 30px;
+}
+.r51{
+	margin-bottom: 50px;
+}
+.c51{
+	background-color: white;
+	border-radius: 10px;
+	padding: 20px 10px 25px 15px;
+}
+.c52{
+	padding: 20px 10px 25px 25px;
+}
+.c53{
+	padding: 20px 10px 25px 15px;
+}
+.c54{
+	background-color: #f15e0e;
+	border-radius: 10px;color: white;
+	padding: 20px 10px 25px 25px;
+}
+.r52{
+	background-color:#f15e0e;
+	padding: 50px 0px 50px 0px;
+}
+.c55 img{
+	border-radius: 5px;
+}
+.c56{
+	background-color: white;
+	margin: 50px 0px 50px 0px;
+	padding: 20px 20px 20px 20px;
+	border-radius: 5px;
+}
+.c56 h2{
+	color:#f15e0e ;
+}
+.c56 p{
+	font-size: 18px;
+}
+.r61{
+	background-color: #EFEFEF;
+	padding: 150px 0px 170px 0px;
+	z-index: 1;
+	position: relative;
+}
+.c61{
+	background-color: #f15e0e;
+	color: white;
+	padding: 40px 0px 40px 30px;
+	margin-right:20px;
+}
+.c61 span{
+	font-size: 20px;
+}
+.c61 i{
+   margin: 30px 0px 30px 0px;
+}
+.r62{
+	z-index: 2;
+	position: relative;
+	right: 25px;
+	bottom: 300px;
+}
+.c62{
+	background-color: white;
+	padding: 15px 25px 30px 25px;
+	margin-left: 15px;
+}
+.c62 center{
+	color: #205375 ;
+	font-size: 35px;
+}
+.c62 p{
+	font-size: 15px;
+	color: #EFEFEF;
+}
+.c62 button{
+    padding: 10px 160px 10px 160px;
+    background-color:#f15e0e;border: 2px solid #f15e0e;
+    border-radius: 5px;margin:30px 10px 0px 10px;
+    color: white;
+}
+.c62 input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid black;
+}
+.r63{
+	background-color: #FEFCF3;
+	padding: 70px 0px 70px 0px;
+	z-index: 1;
+	position: relative;
+	bottom: 400px;
+}
+.r64{
+	background-color: #202120;
+	text-align: center;
+	z-index: 1;
+	position: relative;
+	bottom: 400px;
+	padding: 30px 0px 30px 0px;
+}
+.r64 p{
+	color: white;
+}
